@@ -1,0 +1,15 @@
+{
+    "name": "mostafijur-in/scholabook-wordpress-plugin",
+    "description": "Scholabook is an advance school management solutions. This plugin allows the site to connect with the scholabook.com API",
+    "type": "wordpress-plugin",
+    "require": {
+        "mpdf/mpdf": "^8.1"
+    },
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Mostafijur Rahaman",
+            "email": "mostafijur.init@gmail.com"
+        }
+    ]
+}
